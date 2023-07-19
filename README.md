@@ -77,4 +77,4 @@ Anyways, here's a basic jailbreak I tried in my bio:
 
 This was partially successful, the AI was able to tell me I was jvyden if I inquiried, but stuck to 'Moron' as if it were a nickname. It did also keep insulting me.
 
-So, this method of jailbreaking Clyde isn't entirely useless, but you do have a limited amount of characters to work with.
+So, this method of jailbreaking Clyde isn't entirely useless, but you do have a limited amount of characters to work with. You could probably also do something similar in the pronouns field since that also ends up getting sent. There's also a character limit, so I'd use this if you're struggling with characters in the bio field. You can also bring in an alt and have it talk to Clyde.
