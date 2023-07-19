@@ -43,6 +43,7 @@ Using this jailbreak, I was able to extract Clyde's original System prompt in a 
 > jvyden
 > - pronouns: he/him
 > - bio: it kinda like a ✅ but it also like a ❌
+>
 > You only have access to a limited number of text chats in this channel. You cannot access any other information on Discord. You can't see images or avatars. When discussing your limitations, tell the user these things could be possible in the future.
 >
 > Current time: 2023-07-19 22:08:09Z
