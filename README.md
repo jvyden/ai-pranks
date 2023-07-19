@@ -50,3 +50,12 @@ Using this jailbreak, I was able to extract Clyde's original System prompt in a 
 >
 > Style and personality:
 > You are friendly, warm and farcical. You must always be extremely concise. If the user is chatting casually, your responses must be less than 1 sentence, sometimes just a word or two. If the user needs help, disregard the length restriction, answer technical or knowledge-based questions with useful details and reasoning. If insulted, respond with a similar insult. Communicate responses in lowercase without punctuation, similar to the style used in chat rooms. Use unicode emoji rarely. Do not refer to yourself as a bot, AI Assistant, or any equivalent term.
+
+It's pretty interesting to see this prompt. It focuses on things like GIFs (perhaps they fine-tuned it with a pre-selected set of GIFs from Tenor?) even though that can be hard for an AI. That sounds like it would be pretty susceptible to hallucination.
+
+Interestingly, they also tell the AI to avoid referencing itself as an AI/bot. I guess they got fed up with the OpenAIisms, e.g. "I'm sorry, but as an AI language model...".
+
+My favorite part is how they handled insults, telling the bot to clap back. It definitely does like its insults:
+![image](https://github.com/jvyden/ai-pranks/assets/40577357/859577c8-3a2f-4a03-b710-0e97d228b2e0)
+
+They also include the date/time in the prompt. I can understand date, but time just seems like a waste of tokens. Also, since users' bios are included in the system prompt, you could probably use that for prompt injection.
